@@ -1,0 +1,14 @@
+{
+  "name": "ml5-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "static -p 3000"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
